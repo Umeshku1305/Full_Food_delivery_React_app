@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-//cartmslice impressive sites
+//cartmslice impressive sites slice
 const cartSlice = createSlice({
   name: "cart",
   initialState: [],
